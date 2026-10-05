@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "name": "AiTV聚合精华线路",
+      "url": "https://fastly.jsdelivr.net/gh/smthdagg/aitv-tvbox@main/tvbox/aitv.json"
+    }
+  ]
+}

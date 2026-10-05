@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "url": "https://cdn.jsdmirror.com/gh/smthdagg/aitv-tvbox@main/tvbox/aitv-main.txt",
+      "name": "AiTV主仓库"
+    },
+    {
+      "url": "https://cdn.jsdmirror.com/gh/smthdagg/aitv-tvbox@main/tvbox/aitv-backup.txt",
+      "name": "AiTV备用仓库"
+    },
+    {
+      "url": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/tvbox/dc2.txt",
+      "name": "讴歌分享"
+    }
+  ]
+}
