@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "https://cdn.jsdmirror.com/gh/smthdagg/aitv-tvbox@main/tvbox/aitv.json",
+      "name": "🌟AiTV主仓库🌟"
+    },
+    {
+      "url": "https://fastly.jsdelivr.net/gh/smthdagg/aitv-tvbox@main/tvbox/aitv.json",
+      "name": "🌟AiTV备用仓库🌟"
+    }
+  ]
+}
